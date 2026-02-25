@@ -131,10 +131,11 @@ li {
 .main-nav a {
     color: var(--text);
     font-weight: 500;
-    font-size: 0.95rem;
+    /* font-size: 0.95rem; */
     position: relative;
     padding: 0.5rem 0;
     transition: var(--transition);
+    text-decoration: none;
 }
 
 .main-nav a:hover,
