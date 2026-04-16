@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Projects"
-permalink: /projects/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
 
-# Industry Projects
+<!-- # Industry Projects
 
 ## AlterBot  
 *Python, Django REST Framework, Selenium, Playwright, Docker, PostgreSQL* 
@@ -67,4 +67,47 @@ author_profile: true
 pipeline readiness
 - Scalable data engineering skills applicable to healthcare literature mining, EMR preprocessing, or clinical
 knowledge base construction
-- <a href="https://github.com/SalmanSamiKhan/news_scraper" target="_blank" rel="noopener noreferrer">GitHub</a>  
+- <a href="https://github.com/SalmanSamiKhan/news_scraper" target="_blank" rel="noopener noreferrer">GitHub</a>   -->
+
+
+
+## Fish Detection and Dataset Development (Ongoing)  
+*Python, YOLO, Computer Vision*  
+- Collecting and curating a real-world fish image dataset for detection tasks  
+- Building object detection models for species identification using YOLO  
+- Designing annotation and preprocessing pipelines for dataset scalability  
+- Focused on real-world deployment challenges such as noise, occlusion, and class imbalance  
+- Ongoing work with planned research publication  
+
+## Bengali License Plate Recognition (Thesis)  
+*Python, OpenCV*  
+- Developed a 3-stage pipeline for detection, segmentation, and recognition  
+- Used edge detection and projection-based segmentation for Bangla scripts  
+- Designed ANN-based classifiers for character recognition  
+- Achieved 95% accuracy under real-world conditions  
+- <a href="https://dspace.bracu.ac.bd/xmlui/handle/10361/26805" target="_blank" rel="noopener noreferrer">Paper</a>  
+
+## Rice Variety Classification  
+*TensorFlow, Keras, MobileNetV2*  
+- Built a deep learning pipeline for 5-class classification using 75K+ images  
+- Applied transfer learning with MobileNetV2 and custom classification head  
+- Designed stratified dataset split and augmentation strategy  
+- Evaluated using accuracy, precision, recall, and F1-score  
+- <a href="https://www.kaggle.com/code/salmanssk/rice-image-classification" target="_blank" rel="noopener noreferrer">Kaggle</a>  
+
+## Vision-Based Analytics System  
+*Python, YOLO, GStreamer, Distributed Systems*  
+- Designed a real-time analytics pipeline for multi-camera video streams  
+- Developed object detection workflows using YOLO for monitoring and event extraction  
+- Built scalable RTSP ingestion pipelines using GStreamer  
+- Optimized system performance for low-latency inference under real-world constraints  
+- Structured data pipelines for storing and analyzing detection outputs  
+
+## Interpretable Decision System  
+*Python, scikit-fuzzy*  
+- Designed a fuzzy logic–based decision system using multiple input criteria  
+- Modeled uncertainty and rule-based reasoning for interpretable predictions  
+- Built a transparent alternative to black-box models with explainable outputs  
+- Developed an interface for batch evaluation and structured result analysis  
+- Focused on interpretability and human-understandable decision boundaries  
+- <a href="https://github.com/SalmanSamiKhan/fuzzy-evaluation" target="_blank" rel="noopener noreferrer">GitHub</a>  

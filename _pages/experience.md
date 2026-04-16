@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Software Engineer  
+<!-- ### Software Engineer  
 **Altersense Limited**, Dhaka, Bangladesh  
 Apr 2023 – Present  
 
@@ -37,4 +37,36 @@ Apr 2023 – Present
 *Python, Django, Microsoft Graph API, Azure*  
 - Built a web application to extract and manage Outlook emails for structured analysis  
 - Integrated Microsoft Graph API with Azure for secure authentication and data access  
-- Developed filtering and export features to support downstream workflows  
+- Developed filtering and export features to support downstream workflows   -->
+
+### Software Engineer  
+**Altersense Limited**, Dhaka, Bangladesh  
+Apr 2023 – Present  
+
+- Develop data pipelines and backend systems supporting machine learning workflows  
+- Design large-scale data extraction and preprocessing systems for industrial analytics  
+- Build real-time and batch processing pipelines for structured and unstructured data  
+- Implement automation frameworks for scalable data collection using browser automation tools  
+- Deploy containerized services and manage reproducible environments using Docker  
+- Work with distributed systems involving message queues and intermediate data stores  
+- Mentor junior engineers in system design, code quality, and development practices  
+
+### Projects
+
+**AlterEye**  
+*Python, YOLO, GStreamer, MQTT*  
+- Developed a real-time multi-camera vision system for industrial monitoring  
+- Built object detection pipelines using YOLO-based models  
+- Processed RTSP streams using GStreamer for scalable ingestion  
+- Designed low-latency data flow using MQTT and Redis  
+- Structured storage and retrieval of intermediate and processed data  
+
+**AlterBot**  
+*Python, DRF, Playwright, Docker*  
+- Built automation pipelines for large-scale data extraction and workflow execution  
+- Designed event-driven systems for monitoring and task orchestration  
+
+**AlterOps**  
+*Python, JavaScript, ERPNext*  
+- Developed data processing and automation workflows for enterprise systems  
+- Migrated large-scale structured data into production systems  

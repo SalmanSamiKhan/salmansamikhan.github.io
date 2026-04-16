@@ -20,14 +20,14 @@ main:
   - title: "Education"
     url: /education/
 
-  - title: "Skills"
-    url: /skills/
+  - title: "Expertise"
+    url: /expertise/
 
   - title: "Experience"
     url: /experience/
 
-  - title: "Projects"
-    url: /projects/
+  - title: "Research"
+    url: /research/
     
   # - title: "Portfolio"
   #   url: /portfolio/
