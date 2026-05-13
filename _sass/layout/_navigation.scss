@@ -258,6 +258,13 @@
                 transform: scaleX(1); /* reveal*/
       }
     }
+
+    @media (max-width: $small) {
+      li:not(:first-child) {
+        /* Force overflow on mobile so greedy-nav moves them to hidden list */
+        min-width: 200px; 
+      }
+    }
   }
 
   .hidden-links {

@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -44,4 +44,4 @@ redirect_from:
 ### Awards
 - **Vice Chancellor’s List**, BRAC University (Spring 2020)
 - **Merit-Based Scholarship**, BRAC University
-- **Board Scholarship (SSC)**, Board of Intermediate and Secondary Education
+- **Board Scholarship (SSC)**, Board of Intermediate and Secondary Education -->

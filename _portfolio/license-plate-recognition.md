@@ -17,4 +17,4 @@ A 3-stage Automatic License Plate Recognition (ALPR) system specifically designe
 - Developed a 3-stage pipeline for detection, segmentation, and recognition.
 - Applied edge-based methods and symmetry detection for robust plate localization.
 - Designed ANN-based classifiers for character recognition with 95% accuracy.
-- [Thesis Paper](https://dspace.bracu.ac.bd/xmlui/handle/10361/26805)
+- <a href="https://dspace.bracu.ac.bd/xmlui/handle/10361/26805" target="_blank" rel="noopener noreferrer">Paper</a>
