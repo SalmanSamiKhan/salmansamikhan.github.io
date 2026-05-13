@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can find my articles on <a href="https://scholar.google.com/citations?user=x6jjehEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>.
+You can find my articles on <a href="https://scholar.google.com/citations?user=x6jjehEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
 
 ### Thesis
 - **Automatic Bengali License Plate Detection and Recognition Using Neural Networks** (2020)  

@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full Curriculum Vitae (PDF)](https://drive.google.com/file/d/1utSQ-8mZX9uE2pMHOtDkp6SI9H733Wju/view)
+See my updated <a href="https://drive.google.com/file/d/1utSQ-8mZX9uE2pMHOtDkp6SI9H733Wju/view" target="_blank" rel="noopener noreferrer">CV</a>
 
 ### Education
 - **Bachelor of Science in Computer Science**, BRAC University (2016 – 2020)
@@ -44,4 +44,3 @@ redirect_from:
 ### Awards
 - **Vice Chancellor’s List**, BRAC University (Spring 2020)
 - **Merit-Based Scholarship**, BRAC University
-- **Board Scholarship (SSC)**, Board of Intermediate and Secondary Education -->
