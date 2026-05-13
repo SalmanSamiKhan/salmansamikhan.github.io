@@ -9,56 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[Full Curriculum Vitae (PDF)](https://drive.google.com/file/d/1utSQ-8mZX9uE2pMHOtDkp6SI9H733Wju/view)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Education
+- **Bachelor of Science in Computer Science**, BRAC University (2016 – 2020)
+  - CGPA: 3.26/4.00
+  - Relevant Coursework: Artificial Intelligence, Machine Learning, Computer Vision, Algorithms, Database Systems.
+  - [Undergraduate Thesis](/portfolio/license-plate-recognition/): Automatic Bengali License Plate Detection and Recognition Using Neural Networks.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Research Experience
+- **Fish Detection and Dataset Development** (Mar 2026 – Present)
+  - Collecting and curating a real-world fish image dataset for object detection tasks.
+  - [Project Blog](/portfolio/fish-detection/)
+- **Vision-Based Analytics System** (Jan 2024 – Present)
+  - Real-time multi-camera vision system for industrial monitoring.
+  - [Project Blog](/portfolio/vision-analytics/)
+- **Rice Variety Classification** (Feb 2022 – Mar 2022)
+  - Built a 5-class rice variety classifier using 75K+ labeled images.
+  - [Project Blog](/portfolio/rice-classification/)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Professional Experience
+- **Software Engineer**, Altersense Limited (Apr 2023 – Present)
+  - Developed backend systems and distributed pipelines supporting ML workflows.
+  - [AlterEye / Factory Monitoring System](/portfolio/vision-analytics/) (Vision-based analytics)
+  - [AlterBot Project](/portfolio/alterbot/) (Automation platform)
+  - [AlterOps Project](/portfolio/alterops/) (Enterprise workflows)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Technical Skills
+- **Machine Learning & CV**: PyTorch, TensorFlow, Keras, CNNs, YOLO, OpenCV, Hugging Face
+- **Backend Systems**: Python (Django, DRF, FastAPI, Flask), Node.js, REST API Design, Redis, MQTT
+- **Data & Databases**: PostgreSQL, MySQL, ETL Pipelines (Pandas, NumPy), GStreamer
+- **Deployment & DevOps**: Docker, Git, Linux, GitHub Actions (CI/CD), Nginx, systemd
+
+### Awards
+- **Vice Chancellor’s List**, BRAC University (Spring 2020)
+- **Merit-Based Scholarship**, BRAC University
+- **Board Scholarship (SSC)**, Board of Intermediate and Secondary Education
