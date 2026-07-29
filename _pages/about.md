@@ -23,4 +23,4 @@ My academic journey began at [BRAC University](https://www.bracu.ac.bd), where I
 Computer Vision • Deep Learning • Image Processing • Machine Learning • Human-AI Interaction
 
 ### Open to
-Research collaborations • PhD opportunities
+Graduate Opportunities • Research Collaborations
