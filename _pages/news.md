@@ -9,6 +9,11 @@ author_profile: true
 
 ### 2026
 ---
+## [Urban Mobility Forecasting & Aerial Image Segmentation](/portfolio/urban-mobility-aerial-segmentation/)
+<i class="fa fa-fw fa-calendar" aria-hidden="true"></i> **Published:** September 05, 2026  
+A study combining leakage-safe bike-share demand forecasting with cross-city building-footprint segmentation using Poisson gradient boosting and a pretrained U-Net.
+
+---
 ## [Started Fish Detection and Dataset Development](/portfolio/fish-detection/)
 <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> **Published:** March 01, 2026  
 Focused on real-world species identification and dataset curation for aquatic environments. This research initiative aims to address challenges in noise and occlusion for field-collected data.
@@ -49,7 +54,7 @@ Started as a Software Engineer at Altersense Limited in Dhaka, Bangladesh, contr
 
 ### 2022
 ---
-## [Rice Variety Classification](/portfolio/rice-classification/)
+## [Rice Variety Classification With Transfer Learning](/portfolio/rice-classification/)
 <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> **Published:** February 01, 2022  
 
 Developed a high-accuracy 5-class rice variety classification model using MobileNetV2 and transfer learning on 75K+ images.
@@ -58,11 +63,11 @@ Developed a high-accuracy 5-class rice variety classification model using Mobile
 
 ### 2020
 ---
-## [Undergraduate Thesis: Bengali License Plate Recognition](/portfolio/license-plate-recognition/)
+## [Undergraduate Thesis: Automatic Bengali License Plate Detection and Recognition Using Neural Networks](/portfolio/license-plate-recognition/)
 
 <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> **Published:** July 01, 2020  
 
-Salman Sami Khan (2020). Automatic Bengali License Plate Detection and Recognition Using Neural Networks. BRAC University.  
+Automatic Bengali License Plate Detection and Recognition Using Neural Networks. BRAC University.  
 Designed a 3-stage CV pipeline for detecting and recognizing Bengali-script plates under noisy real-world conditions.
 
 ## Vice Chancellor’s List

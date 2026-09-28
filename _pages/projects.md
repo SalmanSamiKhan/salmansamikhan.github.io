@@ -9,16 +9,19 @@ author_profile: true
 
 ## Research Projects
 
+### [Urban Mobility Forecasting & Aerial Image Segmentation](/portfolio/urban-mobility-aerial-segmentation/)
+A study combining leakage-safe bike-share demand forecasting with cross-city building-footprint segmentation using Poisson gradient boosting and a pretrained U-Net.
+
 ### [Fish Detection and Dataset Development](/portfolio/fish-detection/)
 Collecting and curating a real-world fish image dataset for detection tasks. Focused on species identification under natural constraints like noise and occlusion.
 
 ### [Multi-camera Vision System](/portfolio/vision-analytics/)
 A real-time analytics pipeline for multi-camera streams in industrial settings. Optimized for low-latency monitoring using YOLO and GStreamer.
 
-### [Bengali License Plate Recognition (Thesis)](/portfolio/license-plate-recognition/)
+### [Automatic Bengali License Plate Detection and Recognition Using Neural Networks](/portfolio/license-plate-recognition/)
 A 3-stage CV pipeline for detecting and recognizing Bengali license plates. Achieved 95% accuracy using custom image processing and ANN-based character recognition.
 
-### [Rice Variety Classification](/portfolio/rice-classification/)
+### [Rice Variety Classification With Transfer Learning](/portfolio/rice-classification/)
 Deep learning model for classifying rice varieties using a large-scale image dataset. Built an efficient inference pipeline with MobileNetV2.
 
 <hr>

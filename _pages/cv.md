@@ -18,13 +18,16 @@ See my updated <a href="https://drive.google.com/file/d/1utSQ-8mZX9uE2pMHOtDkp6S
   - [Undergraduate Thesis](/portfolio/license-plate-recognition/): Automatic Bengali License Plate Detection and Recognition Using Neural Networks.
 
 ### Research Experience
+- **Urban Mobility Forecasting & Aerial Image Segmentation** (Sept 2026 – Present)
+  - Bike-share demand forecasting with cross-city building-footprint segmentation using gradient boosting and a pretrained U-Net.
+  - [Project Blog](/portfolio/urban-mobility-aerial-segmentation/)
 - **Fish Detection and Dataset Development** (Mar 2026 – Present)
   - Collecting and curating a real-world fish image dataset for object detection tasks.
   - [Project Blog](/portfolio/fish-detection/)
 - **Vision-Based Analytics System** (Jan 2024 – Present)
   - Real-time multi-camera vision system for industrial monitoring.
   - [Project Blog](/portfolio/vision-analytics/)
-- **Rice Variety Classification** (Feb 2022 – Mar 2022)
+- **Rice Variety Classification With Transfer Learning** (Feb 2022 – Mar 2022)
   - Built a 5-class rice variety classifier using 75K+ labeled images.
   - [Project Blog](/portfolio/rice-classification/)
 

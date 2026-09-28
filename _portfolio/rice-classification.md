@@ -1,5 +1,5 @@
 ---
-title: "Rice Variety Classification"
+title: "Rice Variety Classification With Transfer Learning"
 collection: portfolio
 ---
 
@@ -17,3 +17,4 @@ Deep learning model for classifying rice varieties using a large-scale image dat
 - Developed a high-accuracy 5-class rice variety classification model.
 - Leveraged MobileNetV2 architecture and transfer learning on 75K+ images.
 - Optimized model deployment for cloud-based inference workflows.
+- <a href="https://github.com/SalmanSamiKhan/rice-variety-classification-with-transfer-learning" target="_blank" rel="noopener noreferrer">GitHub</a>
