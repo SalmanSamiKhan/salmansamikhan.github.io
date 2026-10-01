@@ -20,7 +20,7 @@ With a background in production-level engineering, I am now focusing my efforts 
 My academic journey began at [BRAC University](https://www.bracu.ac.bd), where I was honored to be part of the Vice Chancellor’s List for academic excellence and received merit-based scholarships. My undergraduate thesis explored computer vision for intelligent transportation, which sparked my ongoing fascination with how machines perceive and interact with the physical world.
 
 ### Research Interests
-Computer Vision • Deep Learning • Healthcare AI • Human-Centered AI
+Computer Vision • Deep Learning • Medical Image Analysis • Healthcare AI
 
 ### Open to
 Graduate Opportunities • Research Collaborations
